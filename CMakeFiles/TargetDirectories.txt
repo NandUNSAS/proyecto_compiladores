@@ -1,0 +1,3 @@
+/home/asus/Documentos/proyecto_compiladores/build/CMakeFiles/proyecto_compiladores.dir
+/home/asus/Documentos/proyecto_compiladores/build/CMakeFiles/edit_cache.dir
+/home/asus/Documentos/proyecto_compiladores/build/CMakeFiles/rebuild_cache.dir

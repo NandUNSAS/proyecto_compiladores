@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/asus/Documentos/proyecto_compiladores/build",
+  "command": "/usr/bin/g++  -I/home/asus/Documentos/proyecto_compiladores/include -g -std=gnu++17 -o CMakeFiles/proyecto_compiladores.dir/src/main.cpp.o -c /home/asus/Documentos/proyecto_compiladores/src/main.cpp",
+  "file": "/home/asus/Documentos/proyecto_compiladores/src/main.cpp",
+  "output": "CMakeFiles/proyecto_compiladores.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/asus/Documentos/proyecto_compiladores/build",
+  "command": "/usr/bin/g++  -I/home/asus/Documentos/proyecto_compiladores/include -g -std=gnu++17 -o CMakeFiles/proyecto_compiladores.dir/src/lexer.cpp.o -c /home/asus/Documentos/proyecto_compiladores/src/lexer.cpp",
+  "file": "/home/asus/Documentos/proyecto_compiladores/src/lexer.cpp",
+  "output": "CMakeFiles/proyecto_compiladores.dir/src/lexer.cpp.o"
+},
+{
+  "directory": "/home/asus/Documentos/proyecto_compiladores/build",
+  "command": "/usr/bin/g++  -I/home/asus/Documentos/proyecto_compiladores/include -g -std=gnu++17 -o CMakeFiles/proyecto_compiladores.dir/src/parser.cpp.o -c /home/asus/Documentos/proyecto_compiladores/src/parser.cpp",
+  "file": "/home/asus/Documentos/proyecto_compiladores/src/parser.cpp",
+  "output": "CMakeFiles/proyecto_compiladores.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/home/asus/Documentos/proyecto_compiladores/build",
+  "command": "/usr/bin/g++  -I/home/asus/Documentos/proyecto_compiladores/include -g -std=gnu++17 -o CMakeFiles/proyecto_compiladores.dir/src/ast.cpp.o -c /home/asus/Documentos/proyecto_compiladores/src/ast.cpp",
+  "file": "/home/asus/Documentos/proyecto_compiladores/src/ast.cpp",
+  "output": "CMakeFiles/proyecto_compiladores.dir/src/ast.cpp.o"
+}
+]
